@@ -1,0 +1,1 @@
+tsc ./src/index.ts --declaration --outDir ./lib/ 

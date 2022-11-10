@@ -1,2 +1,2 @@
-tsc test.ts
-node test.js
+tsc ./test/test.ts
+node ./test/test.js

@@ -1,4 +1,4 @@
-import { HTML, htmlToStr } from './index';
+import { HTML, htmlToStr } from '../lib/index';
 
 let obj: HTML = {
     tag: 'div',
